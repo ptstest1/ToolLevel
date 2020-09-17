@@ -1,0 +1,11 @@
+{
+"levelUnlockHint": 20,
+"levelUnlockUndo": 5,
+"levelUnlockShuffle": 30,
+"priceHint": 70,
+"priceUndo": 50,
+"priceShuffle": 90,
+"goldClaimWatchVideo": 40,
+"goldDefaultForUser" : 60,
+"goldInBLockGold" : 2
+}
